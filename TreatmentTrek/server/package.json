@@ -1,7 +1,7 @@
 {
-  "name": "carecompass",
+  "name": "treatmenttrek",
   "version": "1.0.0",
-  "description": "CareCompass Backend",
+  "description": "treatmenttrek Backend",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js"
